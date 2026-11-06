@@ -1,13 +1,14 @@
 <div align="center">
 
-# 🌌 Javier Ignacio Mujica
+# ⚡ Javier Ignacio Mujica
 ### **Founder • AI Orchestration Architect • Full-Stack Systems & Edge AI**
 
 ```
-   ___ ___   _   ___  ___ _____ ___ _  _ ___   ___ ___  ___  
-  / __/ _ \ /_\ |   \| __|_   _/ __| || | __| | _ \ _ \/ _ \ 
- | (_| (_) / _ \| |) | _|  | | \__ \ __ | _|  |  _/   / (_) |
-  \___\___/_/ \_\___/|___| |_| |___/_||_|___| |_| |_|_\\___/ 
+     _      _    __     __  ___   _____   ____       __  __ _   _     _ ___ ____    _    
+    | |    / \   \ \   / / |_ _| | ____| |  _ \     |  \/  | | | |   | |_ _/ ___|  / \   
+ _  | |   / _ \   \ \ / /   | |  |  _|   | |_) |    | |\/| | | | |   | || || |    / _ \  
+| |_| |  / ___ \   \ V /    | |  | |___  |  _ <     | |  | | |_| | \_| || || |___/ ___ \ 
+ \___/  /_/   \_\   \_/    |___| |_____| |_| \_\    |_|  |_|\___/ \___/|___|\____/_/   \_\
 ```
 
 [![Website](https://img.shields.io/badge/Website-javiermujica.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://javiermujica.com)
