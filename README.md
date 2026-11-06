@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/Website-javiermujica.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://javiermujica.com)
 [![VerticApp](https://img.shields.io/badge/SaaS-verticapp.pro-00bcd4?style=for-the-badge&logo=target&logoColor=white)](https://verticapp.pro)
 [![Sintergia Group](https://img.shields.io/badge/Consulting-sintergiagroup.com-ff9800?style=for-the-badge&logo=buffer&logoColor=white)](https://sintergiagroup.com)
-[![Vibecode Lab](https://img.shields.io/badge/Unicorn_Incubator-Vibecode_Lab-7928CA?style=for-the-badge&logo=rocket&logoColor=white)](file:///home/astro/dev/portafolio/funnels/vibecode-lab/README.md)
+[![Vibecode Lab](https://img.shields.io/badge/Unicorn_Incubator-Vibecode_Lab-7928CA?style=for-the-badge&logo=rocket&logoColor=white)](https://javiermujica.com/deeplink/vibecode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Mujica-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-mujica-aa32291a/)
 [![Email](https://img.shields.io/badge/Email-hola%40javiermujica.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@javiermujica.com)
 
@@ -35,9 +35,9 @@ Además, formo a la próxima generación de constructores de tecnología en **Vi
 
 ## 🚀 Proyectos Principales & Liderazgo
 
-- 🦄 **Vibecode Lab (Founder & Lead Mentor):** El semillero que forma squads con los 4 arquetipos ideales para escalar rápido (*DEV, Founder, Creative, Just Graduated*). 7 semanas, 7 sprints, validación con pauta en vivo y demo day con inversionistas. (IG: [@mujica_ai_lab](https://instagram.com/mujica_ai_lab)).
+- 🦄 **[Vibecode Lab](https://www.javiermujica.com/deeplink/vibecode) (Founder & Lead Mentor):** El semillero que forma squads con los 4 arquetipos ideales para escalar rápido (*DEV, Founder, Creative, Just Graduated*). 7 semanas, 7 sprints, validación con pauta en vivo y Demo Day final con Pitch Deck probado en mercado. (hablen al bot 🎁) • (IG: [@mujica_ai_lab](https://instagram.com/mujica_ai_lab)).
 - 🎯 **[VerticApp.pro](https://verticapp.pro) (Fundador & Lead AI Architect):** Plataforma SaaS de visión artificial en el navegador/móvil para análisis biomecánico de handstand y calistenia. Inferencia local con MediaPipe/TensorFlow.js, retroalimentación auditiva y 100% de privacidad de datos.
-- 🏢 **[Sintergia Group](https://sintergiagroup.com) (Socio Tecnológico & Head of Engineering):** Consultora B2B enfocada en orquestación de agentes, RPA para cadenas operativas e integración de herramientas empresariales.
+- 🏢 **[Sintergia Group](https://sintergiagroup.com) (Socio Tecnológico & Head of Engineering):** Plataforma y consultora de clima organizacional potenciada con IA. Elevamos la salud de los equipos integrando ciberseguridad, automatización y desarrollo de capacidad agéntica para transformar la dinámica laboral.
 - 🌐 **[javiermujica.com](https://javiermujica.com):** Centro de servicios, consultoría y portafolio interactivo.
 - 🤖 **Actualmente dominando:** **OpenClaw** y el desarrollo de servidores MCP personalizados para orquestar conversaciones y automatizaciones en WhatsApp y CRMs.
 - 💬 **Ask me about:** **Agentic World**, enjambres autónomos (swarms), protocolos MCP, optimización de pipelines LLM, arquitecturas reactivas y visión computacional.
@@ -48,8 +48,8 @@ Además, formo a la próxima generación de constructores de tecnología en **Vi
 
 | Iniciativa / Proyecto | Enfoque & Propuesta de Valor | Enlace / Embudo |
 |---|---|---|
-| **Vibecode Lab** 🦄 | **Semillero de Unicornios.** Squads de 4 arquetipos (*DEV, Founder, Creative, Just Graduated*). 7 sprints, lenguaje común de build/launch/fundraising, testeo con pauta en vivo y pozo común. Próxima Gen: 25 Nov. | [Ver Vibecode Lab](file:///home/astro/dev/portafolio/funnels/vibecode-lab/README.md) • IG: [@mujica_ai_lab](https://instagram.com/mujica_ai_lab) |
-| **Sintergia Group** 🏢 | Consultoría estratégica de arquitectura agéntica, RPA omnicanal e integraciones corporativas con MCP. | [Embudo IA & RPA](file:///home/astro/dev/portafolio/funnels/ai-agents-rpa/README.md) • [sintergiagroup.com](https://sintergiagroup.com) |
+| **Vibecode Lab** 🦄 | **Semillero de Unicornios.** Squads de 4 arquetipos (*DEV, Founder, Creative, Just Graduated*). 7 sprints, lenguaje común de build/launch/fundraising, testeo con pauta en vivo y pozo común. Próxima Gen: 25 Nov. | [Página del Curso](https://www.javiermujica.com/deeplink/vibecode) (hablen al bot 🎁) • [Detalle del Embudo](file:///home/astro/dev/portafolio/funnels/vibecode-lab/README.md) • IG: [@mujica_ai_lab](https://instagram.com/mujica_ai_lab) |
+| **Sintergia Group** 🏢 | **Clima Organizacional & Capacidad Agéntica.** Diagnóstico y transformación de la cultura laboral, blindaje en ciberseguridad y habilitación de equipos con herramientas de IA agéntica y RPA corporativo. | [Embudo Sintergia](file:///home/astro/dev/portafolio/funnels/ai-agents-rpa/README.md) • [sintergiagroup.com](https://sintergiagroup.com) |
 | **VerticApp.pro** 🎯 | SaaS de análisis biomecánico on-device (<16 ms) de handstand mediante visión computacional y privacidad local. | [VerticApp.pro](https://verticapp.pro) |
 | **AcroTrain** 🤸 | Talleres presenciales de control postural, biomecánica sagital, handstand y movilidad viva. | [Embudo @acrotrain](file:///home/astro/dev/portafolio/funnels/handstand-acrotrain/README.md) |
 | **Facilitación Vivencial** 🌿 | Encuentros de Biodanza, retiros somáticos y espacios vivenciales de servicio. | [Embudo @javieriignaciomujica](file:///home/astro/dev/portafolio/funnels/biodanza-retiros/README.md) |
