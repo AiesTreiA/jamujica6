@@ -124,8 +124,8 @@ pie title Distribución de Código en Mis Proyectos
 
 ## 📄 Trayectoria & Experiencia
 
-- 🇪🇸 **Currículum Vitae (Español):** [Ver CV en javiermujica.com](https://javiermujica.com) *(o en [Google Drive](https://drive.google.com/file/d/16riqF6xJSbEgH1aq4TAuJsks4WGVeOXb/view?usp=sharing))*
-- 🇬🇧 **Resume (English Version):** [English Resume (Web/PDF)](https://javiermujica.com/resume-en)
+- 🇪🇸 **Currículum Vitae (Español):** [Ver CV AI Engineer (PDF)](https://javiermujica.com/CV_Javier_Mujica_AI_Engineer_Buk.pdf) • [CV Data Engineer (PDF)](https://javiermujica.com/CV_Javier_Mujica_Data_Engineer_Buk.pdf) • [javiermujica.com](https://javiermujica.com)
+- 🇬🇧 **Resume (English Version):** [English Resume AI Engineer (PDF)](https://javiermujica.com/CV_Javier_Mujica_AI_Engineer_EN.pdf) • [javiermujica.com/en](https://javiermujica.com/en)
 
 ---
 
