@@ -66,31 +66,41 @@ Además, formo a la próxima generación de constructores de tecnología en **Vi
 
 ## 📊 Radiografía Cuantitativa del Código
 
-Métricas calculadas directamente sobre los proyectos y repositorios de mi entorno de desarrollo:
+Medición estática propia sobre **49 repositorios** y **~61.6 K archivos fuente**: **14.31 M líneas de código**, excluyendo `node_modules`, artefactos de build y binarios (porcentajes sobre líneas de código; JSON/YAML/Markdown fuera del cálculo).
 
 ```
-TypeScript     ████████████████████████████████ 68.4% (438.3 MB)
-JSON (Configs) ██████ 13.6% (86.9 MB)
-Markdown/Docs  ████ 7.9% (50.6 MB)
-JavaScript     ██ 3.3% (21.2 MB)
-HTML5          █ 2.8% (18.2 MB)
-Python         █ 2.4% (15.1 MB)
-CSS3 / SCSS    ▏ 0.6% (3.7 MB)
-Shell Scripts  ▏ 0.4% (2.8 MB)
-Rust           ▏ 0.3% (2.2 MB)
-SQL            ▏ 0.2% (1.1 MB)
+TypeScript          ████████████████████████████████ 78.9%  ·  11.29 M líneas
+TSX (React)         ██ 5.3%  ·  762 K
+Swift               █ 3.6%  ·  514 K
+JavaScript          █ 3.5%  ·  499 K
+Python              █ 2.8%  ·  393 K
+Kotlin              ▏1.9%  ·  278 K
+CSS / SCSS          ▏1.2%  ·  169 K
+JSX (React)         ▏0.7%  ·   93 K
+HTML5               ▏0.6%  ·   88 K
+Shell / Bash        ▏0.5%  ·   73 K
+Rust                ▏0.5%  ·   64 K
+SQL                 ▏0.2%  ·   31 K
+C / Go / Vue / Java ▏0.3%  ·   41 K
 ```
 
 ```mermaid
 pie title Distribución de Código en Mis Proyectos
-    "TypeScript" : 68.4
-    "JSON & Configs" : 13.6
-    "Markdown & Docs" : 7.9
-    "JavaScript" : 3.3
-    "HTML5" : 2.8
-    "Python" : 2.4
-    "Otros (Rust, Shell, SQL, CSS)" : 1.6
+    "TypeScript (TS + TSX)" : 84.3
+    "JavaScript (JS + JSX)" : 4.1
+    "Swift" : 3.6
+    "Python" : 2.8
+    "Kotlin" : 1.9
+    "CSS / SCSS" : 1.2
+    "HTML5" : 0.6
+    "Otros (Shell, Rust, SQL, C, Go, Vue)" : 1.5
 ```
+
+**🔍 Herramientas verificadas en el entorno (por repositorio):**
+- **Frontend:** React (26), Next.js (17), Vite (15), Tailwind CSS (20), Radix UI, Lucide (19), React Hook Form (11), Zod, Vue, Astro.
+- **Backend & Data:** Node.js, Express (10), Fastify, WebSockets (`ws`), Supabase (15), Prisma, PostgreSQL, SQL nativo.
+- **Nativo & IA:** Swift/SwiftUI (1.841 archivos), Kotlin (804), Python (Pydantic, NumPy, NetworkX, PyArrow, OpenCV, MediaPipe).
+- **Infra & Calidad:** Docker/Compose (15), Vercel, PM2, ESLint, Prettier, `tsc`, Git.
 
 ---
 
